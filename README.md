@@ -1,1 +1,1 @@
-# gitfloq-example
+# gitflow-example
